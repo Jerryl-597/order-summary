@@ -107,7 +107,9 @@ p {
   font-size: 12px;
   transition: all 0.3s linear;
   font-weight: 700;
+  color: hsl(245, 75%, 52%);
 }
+
 .link:hover {
   text-decoration: none;
   color: hsl(245, 75%, 65%);
